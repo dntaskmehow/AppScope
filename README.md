@@ -4,6 +4,17 @@
   <img src="https://raw.githubusercontent.com/dntaskmehow/AppScope/main/assets/appscope-mark.svg" alt="AppScope" width="120" />
   <h1>AppScope</h1>
   <p><strong>GitHub App privilege audit and supply-chain credential leakage scanner</strong></p>
+
+  <p>
+    <a href="https://github.com/dntaskmehow/AppScope/actions"><img alt="Python 3.10+" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" /></a>
+    <a href="https://opensource.org/licenses/MIT"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-green.svg" /></a>
+    <a href="https://github.com/dntaskmehow/AppScope"><img alt="GitHub App Security" src="https://img.shields.io/badge/Focus-GitHub%20App%20Security-0f172a?logo=github&logoColor=white" /></a>
+    <a href="https://github.com/dntaskmehow/AppScope"><img alt="Language: Python" src="https://img.shields.io/badge/Language-Python-100%25-3776AB?logo=python&logoColor=white" /></a>
+  </p>
+
+  <p>
+    <img alt="Stack" src="https://img.shields.io/badge/Stack-requests%20%7C%20pydantic%20%7C%20rich%20%7C%20PyJWT%20%7C%20cryptography-0f172a?logo=python&logoColor=white" />
+  </p>
 </div>
 
 AppScope is a lightweight security audit tool for GitHub organizations and local repositories. It helps engineers answer two practical questions quickly:
