@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">AppScope</title>
+  <desc id="desc">Abstract AppScope logo mark</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
+  <path d="M128 36 206 78v100l-78 42-78-42V78l78-42Zm0 24-58 32v68l58 32 58-32V92l-58-32Zm-18 46h36l-18 72-18-72Zm-22 14h12l18 28h-10l-20-28Zm76 0h12l-20 28h-10l18-28Z" fill="url(#accent)" fill-rule="evenodd"/>
+  <circle cx="128" cy="128" r="12" fill="#e2e8f0" opacity="0.9"/>
+</svg>
