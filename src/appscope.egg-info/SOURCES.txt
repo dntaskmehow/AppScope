@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/appscope/__init__.py
+src/appscope/auditor.py
+src/appscope/cli.py
+src/appscope/config.py
+src/appscope/reporter.py
+src/appscope/scanner.py
+src/appscope.egg-info/PKG-INFO
+src/appscope.egg-info/SOURCES.txt
+src/appscope.egg-info/dependency_links.txt
+src/appscope.egg-info/entry_points.txt
+src/appscope.egg-info/requires.txt
+src/appscope.egg-info/top_level.txt
+tests/test_appscope.py
