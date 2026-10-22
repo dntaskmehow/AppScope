@@ -1,4 +1,4 @@
-# AppScope
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/dntaskmehow/AppScope/main/assets/appscope-mark.svg" alt="AppScope" width="120" />
